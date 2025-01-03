@@ -54,4 +54,4 @@ Uso intensivo de GPU/CPU
 Recomendado sistema de refrigeração adequado
 
 
-Desenvolvido com ❤️ pela comunidade Bitcoin. Contribuições são bem-vindas!
+Desenvolvido com ❤️ para comunidade Bitcoin. Contribuições são bem-vindas!
