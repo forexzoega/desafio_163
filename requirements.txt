@@ -1,0 +1,7 @@
+pyopencl
+numpy
+ecdsa
+tqdm
+psutil
+base58
+pyyaml

@@ -1,0 +1,6 @@
+gpu_memory_limit: 4021225472      # 3GB
+ram_usage_limit_percentage: 90     # 80%
+gpu_batch_size: 4021225472           # 3M
+checkpoint_interval: 1000
+cleanup_interval: 5000
+cpu_threads: 12                   # Ajuste conforme o número de núcleos disponíveis
